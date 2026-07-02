@@ -5,4 +5,4 @@ The project folder contains two data files that are referenced by the HTML file:
   --"historicannexations.csv" populates the data table that appears after a county is selected.
 
 This HTML site is shared via GitHub Pages and embedded as an iFrame to DCA's Annexation Reporting & Resources ArcGIS Hub site.
-For more details, there is an expanded README in the "docs" folder. For questions, please contact dhruva.jandhyala@dca.ga.gov or gis@dca.ga.gov
+For more details, there is an expanded README in the "docs" folder. For questions, please contact dhruva.jandhyala@dca.ga.gov or gis@dca.ga.gov 
