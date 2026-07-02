@@ -1,7 +1,7 @@
 This project contains an HTML file that generates a table of annexation reports filed by municipalities to Georgia DCA prior to January 1, 2026.
 
 The project folder contains two data files that are referenced by the HTML file:
-  - "georgiacounties.csv" generates the list of counties that appears in the initial view.
+  - "georgiacounties.csv" generates the list of counties that appears in the initial view. 
   - "historicannexations.csv" populates the data table that appears after a county is selected.
   - Both of these .csv files can be updated as needed. Simply Edit the data in GitHub & press "Commit Changes".
   - It's important to keep the .csv files in the same project folder as "index.html". Otherwise, the data won't load.
